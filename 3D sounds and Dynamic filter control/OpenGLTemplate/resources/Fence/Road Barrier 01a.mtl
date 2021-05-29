@@ -1,0 +1,10 @@
+# Created with Anim8or 1.00
+# Object "Road Barrier 01a":
+
+newmtl tex_barrier_01_d
+Ka 0.878 0.878 0.878
+Kd 0.878 0.878 0.878
+Ks 1 1 1
+Ns 752.6
+map_Kd tex_barrier 01_d.png
+

@@ -1,0 +1,4 @@
+﻿  Audio.cpp
+     Creating library C:\Users\Cyprotic\Desktop\Template2021\x64\Debug\OpenGLTemplate.lib and object C:\Users\Cyprotic\Desktop\Template2021\x64\Debug\OpenGLTemplate.exp
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLTemplate.vcxproj -> C:\Users\Cyprotic\Desktop\Template2021\x64\Debug\OpenGLTemplate.exe

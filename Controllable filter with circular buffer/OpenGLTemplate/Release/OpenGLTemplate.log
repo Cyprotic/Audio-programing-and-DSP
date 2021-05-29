@@ -1,0 +1,20 @@
+﻿  Audio.cpp
+  Camera.cpp
+  Cubemap.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+  Plane.cpp
+  Shaders.cpp
+  Skybox.cpp
+  Sphere.cpp
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
+  Generating code
+  All 1057 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenGLTemplate.vcxproj -> C:\Slabaugh\Teaching\AY2016-17\INM376\Template\Template\Release\OpenGLTemplate.exe

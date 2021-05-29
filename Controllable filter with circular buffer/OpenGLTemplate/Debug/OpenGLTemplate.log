@@ -1,0 +1,72 @@
+﻿  Audio.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(694,82): warning C4244: 'initializing': conversion from 'double' to '_Objty', possible loss of data
+          with
+          [
+              _Objty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(1508): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,double&>(_Alloc &,_Objty *const ,double &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<float>,
+              _Ty=float,
+              _Objty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(1508): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,double&>(_Alloc &,_Objty *const ,double &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<float>,
+              _Ty=float,
+              _Objty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(1542): message : see reference to function template instantiation 'void std::_Uninitialized_backout_al<_Alloc>::_Emplace_back<double&>(double &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(1542): message : see reference to function template instantiation 'void std::_Uninitialized_backout_al<_Alloc>::_Emplace_back<double&>(double &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(1588): message : see reference to function template instantiation 'float *std::_Uninitialized_copy<_Iter,std::allocator<float>>(const _InIt,const _InIt,float *,_Alloc &)' being compiled
+          with
+          [
+              _Iter=double *,
+              _InIt=double *,
+              _Alloc=std::allocator<float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(498): message : see reference to function template instantiation 'float *std::vector<float,std::allocator<float>>::_Ucopy<_Iter>(_Iter,_Iter,float *)' being compiled
+          with
+          [
+              _Iter=double *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(498): message : see reference to function template instantiation 'float *std::vector<float,std::allocator<float>>::_Ucopy<_Iter>(_Iter,_Iter,float *)' being compiled
+          with
+          [
+              _Iter=double *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(509): message : see reference to function template instantiation 'void std::vector<float,std::allocator<float>>::_Range_construct_or_tidy<double*>(_Iter,_Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=double *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(509): message : see reference to function template instantiation 'void std::vector<float,std::allocator<float>>::_Range_construct_or_tidy<double*>(_Iter,_Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=double *
+          ]
+C:\Users\Cyprotic\Desktop\DSP\CustomDSP\OpenGLTemplate\Audio.cpp(21): message : see reference to function template instantiation 'std::vector<float,std::allocator<float>>::vector<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Ty=double,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Alloc=std::allocator<float>
+          ]
+C:\Users\Cyprotic\Desktop\DSP\CustomDSP\OpenGLTemplate\Audio.cpp(21): message : see reference to function template instantiation 'std::vector<float,std::allocator<float>>::vector<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Ty=double,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Alloc=std::allocator<float>
+          ]
+  OpenGLTemplate.vcxproj -> C:\Users\Cyprotic\Desktop\DSP\CustomDSP\Debug\OpenGLTemplate.exe
